@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>More Foxes Rus</name>
+	<author>TzverG</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+	</supportedVersions>
+	<packageId>HidingFox.MoreFoxes.Rus</packageId>
+	<description>Обычный перевод для личного пользования.\n\nОригинальное описание:\nЭтот мод добавляет 6 новых видов лисиц:\n	- "Vulpes rueppellii" Песчаная лисица (ориг. Sand Fox)\n- "Vulpes macrotis" Американская лисица (ориг. Kit Fox)\n- "Cerdocyon thous" Майконг или Саванновый волк (ориг. Maikong)\n- "Urocyon cinereoargenteus" Серая лисица (ориг. Gray Fox)\n- "Vulpes ferrilata" Тибетская лисица (ориг. Tibetan Fox)\n- Чернобурая лисица (ориг. Silver Fox)
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>HidingFox.MoreFoxes</packageId>
+			<displayName>More Foxes</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2933693918</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>HidingFox.MoreFoxes</li>
+	</loadAfter>
+</ModMetaData>

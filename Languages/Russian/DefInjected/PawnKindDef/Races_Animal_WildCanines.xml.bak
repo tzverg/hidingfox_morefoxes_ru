@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Fox_Gray.label>серая лисица</Fox_Gray.label>
+	<Fox_Gray.labelPlural>серые лисы</Fox_Gray.labelPlural>
+	<Fox_Gray.lifeStages.0.label>серый лисёнок</Fox_Gray.lifeStages.0.label>
+	<Fox_Gray.lifeStages.0.labelPlural>серые лисята</Fox_Gray.lifeStages.0.labelPlural>
+	
+	<Fox_Sand.label>песчаная лисица</Fox_Sand.label>
+	<Fox_Sand.labelPlural>песчаные лисы</Fox_Sand.labelPlural>
+	<Fox_Sand.lifeStages.0.label>серый лисёнок</Fox_Sand.lifeStages.0.label>
+	<Fox_Sand.lifeStages.0.labelPlural>серые лисята</Fox_Sand.lifeStages.0.labelPlural>
+	
+	<Fox_Silver.label>чернобурая лисица</Fox_Silver.label>
+	
+	<Fox_Tibetan.label>тибетская лисица</Fox_Tibetan.label>
+	
+	<Fox_Maikong.label>майконг</Fox_Maikong.label>
+	
+	<Fox_Kit.label>американская лисица</Fox_Kit.label>
+	
+</LanguageData>

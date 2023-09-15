@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Fox_Gray.label>серая лисица</Fox_Gray.label>
+	<Fox_Gray.labelPlural>серые лисы</Fox_Gray.labelPlural>
+	<Fox_Gray.lifeStages.0.label>серый лисёнок</Fox_Gray.lifeStages.0.label>
+	<Fox_Gray.lifeStages.0.labelPlural>серые лисята</Fox_Gray.lifeStages.0.labelPlural>
+	
+	<Fox_Sand.label>песчаная лисица</Fox_Sand.label>
+	<Fox_Sand.labelPlural>песчаные лисы</Fox_Sand.labelPlural>
+	<Fox_Sand.lifeStages.0.label>серый лисёнок</Fox_Sand.lifeStages.0.label>
+	<Fox_Sand.lifeStages.0.labelPlural>серые лисята</Fox_Sand.lifeStages.0.labelPlural>
+	
+	<Fox_Silver.label>чернобурая лисица</Fox_Silver.label>
+	<Fox_Silver.labelPlural>чернобурые лисы</Fox_Silver.labelPlural>
+	<Fox_Silver.lifeStages.0.label>чернобурый лисёнышь</Fox_Silver.lifeStages.0.label>
+	<Fox_Silver.lifeStages.0.labelPlural>чернобурые лисятки</Fox_Silver.lifeStages.0.labelPlural>
+	
+	<Fox_Tibetan.label>тибетская лисица</Fox_Tibetan.label>
+	<Fox_Tibetan.labelPlural>тибетские лисички</Fox_Tibetan.labelPlural>
+	<Fox_Tibetan.lifeStages.0.label>тибетский лисёнышь</Fox_Tibetan.lifeStages.0.label>
+	<Fox_Tibetan.lifeStages.0.labelPlural>тибетские лисятки</Fox_Tibetan.lifeStages.0.labelPlural>
+	
+	<Fox_Maikong.label>саванновая лисица</Fox_Maikong.label>
+	<Fox_Maikong.labelPlural>саванновые лисы</Fox_Maikong.labelPlural>
+	<Fox_Maikong.lifeStages.0.label>саванновый лисёнышь</Fox_Maikong.lifeStages.0.label>
+	<Fox_Maikong.lifeStages.0.labelPlural>саванновые лисятки</Fox_Maikong.lifeStages.0.labelPlural>
+	
+	<Fox_Kit.label>американская лисица</Fox_Kit.label>
+	<Fox_Kit.labelPlural>американские лисы</Fox_Kit.labelPlural>
+	<Fox_Kit.lifeStages.0.label>американский лисёнышь</Fox_Kit.lifeStages.0.label>
+	<Fox_Kit.lifeStages.0.labelPlural>американские лисятки</Fox_Kit.lifeStages.0.labelPlural>
+	
+	
+</LanguageData>
